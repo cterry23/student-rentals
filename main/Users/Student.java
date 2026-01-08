@@ -19,5 +19,5 @@ public class Student extends User {
     public String getUserType() {
         return "Student";
     }
-
 }
+
