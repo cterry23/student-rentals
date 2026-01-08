@@ -29,7 +29,7 @@ class Node {
 
 public class RoomTree {
 
-    Node root;
+    private Node root;
 
     // method for creating nodes and adding them to the tree, called recursively
     public void addNode(Room room) {
