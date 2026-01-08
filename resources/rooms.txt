@@ -1,0 +1,7 @@
+101 Somewhere Street;320;12
+31 Spooner Street;310;12
+87 High Street;300;12
+19 Bell End;190;12
+10050 Cielo Drive;250;12
+15 Alcan Road;290;12
+315 Bowery;250;12
